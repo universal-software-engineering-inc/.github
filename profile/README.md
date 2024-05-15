@@ -1,5 +1,7 @@
 # Xin chào | ハロー 👋
-This is official USE Inc Japan's GitHub
+This is official USE Inc. Japan's GitHub
+
+(Universal Software Engineering Inc.)
 
 # Get in touch with us:
 
